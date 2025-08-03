@@ -12,7 +12,11 @@ This is a fully responsive real estate website cloned from a Colorlib template, 
 - HTML5
 - CSS3
 - Media Queries
-- Flexbox / Grid 
+- Flexbox / Grid
+
+## ScreenShot
+<img width="1851" height="870" alt="image" src="https://github.com/user-attachments/assets/edf9c908-4f23-4b56-8240-a4cf29379cac" />
+
 
 ## 📌 Notes
 - This project is a front-end clone for learning and practice purposes.
